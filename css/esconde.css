@@ -1,0 +1,12 @@
+/* 
+input.form-control {
+	display: none;
+} */
+
+input.form-control.forma {
+    display: none;
+  }
+
+  select.form-control.forma {
+    display: none;
+  }
